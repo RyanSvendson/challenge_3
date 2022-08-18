@@ -1,0 +1,7 @@
+Crypto Arbitrage Analysis Report
+
+This analysis looked at the prices of Bitcoin across 2 different exchanges (Bitstamp and Coinbase) and seeks to identify arbitrage opportunities and calculate returns. The time period that was analyzed was Jan 1, 2018 - Mar 31, 2018. 
+
+It was discovered that for short periods of time the price of Bitcoin is different on Bitstamp vs Coinbase. By recognizing these discrepencies, one could buy Bitcoin on the lesser priced exchange, and potentially profit when it reverts to the mean price matched by the other exchange. 
+
+In order to identify arbitrage, we can subtract the closing price of Bitcoin on Bitstamp from the price on Coinbase and focus on time periods that have the price discrepency. 
